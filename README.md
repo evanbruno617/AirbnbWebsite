@@ -1,2 +1,2 @@
 # Travel_Planning
-Scraping flights and hotels and finding cheapest combination of two for user to book
+Provides website to allow users to contact me for airbnb scraping service
